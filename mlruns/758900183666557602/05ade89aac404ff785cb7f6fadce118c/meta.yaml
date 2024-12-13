@@ -1,0 +1,15 @@
+artifact_uri: file:///home/toti/Laboratorio-de-programaci-n/LabPro/PROYECTO/mlruns/758900183666557602/05ade89aac404ff785cb7f6fadce118c/artifacts
+end_time: 1734054754379
+entry_point_name: ''
+experiment_id: '758900183666557602'
+lifecycle_stage: active
+run_id: 05ade89aac404ff785cb7f6fadce118c
+run_name: nombre_del_modelo
+run_uuid: 05ade89aac404ff785cb7f6fadce118c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734054754112
+status: 4
+tags: []
+user_id: toti
